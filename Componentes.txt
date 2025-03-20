@@ -1,0 +1,7 @@
+1 Arduino Uno
+3 LEDs (vermelho, amarelo e verde)
+3 resistores de 220Ω
+1 botão
+1 resistor de 10kΩ 
+Fios jumper
+1 protoboard
